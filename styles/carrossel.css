@@ -11,8 +11,7 @@
 .swiper-slide img {
     width: 100%;
 }
-.swiper-button-pre,
-.swiper-button-next {
+.swiper-button-pre, .swiper-button-next {
     display: none;
 }
 .swiper-pagination {
@@ -69,4 +68,8 @@
     font-weight: 700;
     text-decoration: none;
     
+}
+
+.descricao__avaliacoes {
+    margin: 0.5em 0;
 }
