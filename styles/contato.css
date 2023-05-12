@@ -34,7 +34,7 @@
     padding-left: 2em;
     background: url(../img/Email.svg) no-repeat;
     background-position: 0.5em;
-    text-align:justify;
+    text-align:left;
 }
 
 .contato__email {
