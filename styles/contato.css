@@ -31,12 +31,12 @@
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    padding-left: 2.5em;
+    padding-left: 10em;
     background: url(../img/Email.svg) no-repeat;
     background-position: 0.5em;
-    text-align: left;
+    text-align:justify;
 }
 
 .contato__email {
-    padding: 2em;
+    padding: 5em;
 }
