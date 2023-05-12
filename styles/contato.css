@@ -26,12 +26,16 @@
     border-radius: 24px;
     width: 90%;
     color: var(--azul);
-    text-align: center;
 }  
 
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url("../img/Email.svg") no-repeat;
     padding-left: 2.5em;
+    background: url(../img/Email.svg) no-repeat;
+    background-position: 1em;
+}
+
+.contato__email {
+    padding-left: 3em;
 }
