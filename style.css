@@ -13,6 +13,10 @@
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font-principal: "poppins";
     --azul: #002F52;
+    --fonte-secundaria: "Josefin Sans";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-secundario: #858585;
 }
 body {
     background-color: var(--cor-de-fundo);
